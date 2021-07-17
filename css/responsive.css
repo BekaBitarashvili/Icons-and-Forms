@@ -1,0 +1,78 @@
+@media (max-width: 1000px) {
+	.fa-bars {
+		position: absolute;
+	    width: 25.5px;
+	    height: 25.5px;
+	    left: 1753px;
+	    top: 77px;
+	    font-size: 35px;
+	    color: black;
+	    right: 10%;
+	}
+	.project,.request,.explore,.log-in,.search  {
+		display: none;
+	}
+}
+@media (max-width: 999px) {
+	.fa-bars {
+		right: 10%;
+	}
+}
+@media (max-width: 999px) {
+	.logo-b {
+		width: 80px;
+    	height: 50px;
+    	left: 10%;
+	}
+}
+@media (max-width: 999px) {
+	.map {
+		width: 1240px;
+    	height: 608px;
+    	left: 10%;
+
+	}
+}
+@media (max-width: 999px) {
+	.label-name,.input-name,.label-email,.input-email,.label-subject,.input-subject,.label-message,.textarea,.button {
+		left: 10%;
+		width: 330px;
+	}
+}
+@media (max-width: 999px) {
+	.footer {
+		width: 100%;
+    	left: 0%;
+
+	}
+}
+@media (max-width: 999px) {
+	.logo-w {
+		width: 80px;
+    	height: 50px;
+	}
+}
+@media (max-width: 999px) {
+	.contact {
+		left: 15%;
+		font-size: 10px;
+	}
+}
+@media (max-width: 999px) {
+	.address {
+		left: 25%;
+		font-size: 10px;
+	}
+}
+@media (max-width: 999px) {
+	.fa-facebook {
+		left: 40%;
+		font-size: 25px;
+	}
+}
+@media (max-width: 999px) {
+	.fa-instagram-square {
+		left: 45%;
+		font-size: 25px;
+	}
+}
