@@ -1,0 +1,227 @@
+body {
+	position: absolute;
+    width: 1920px;
+    height: 1942px;
+}
+.container1 {
+	height: 212px;
+	width: 100%;
+}
+.logo-b {
+	position: absolute;
+    width: 122px;
+    height: 95px;
+    left: 140px;
+    top: 52px;
+}
+.project {
+	left: 968.5px;
+    top: 73px;
+    position: absolute;
+    width: 190px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Archy EDT;
+    font-weight: lighter;
+    font-size: 20px;
+    color: #707070;
+    letter-spacing: 0.1px;
+}
+.request {
+	left: 1210.5px;
+    top: 73px;
+    position: absolute;
+    width: 190px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Archy EDT;
+    font-weight: lighter;
+    font-size: 20px;
+    color: #707070;
+    letter-spacing: 0.1px;
+}
+.explore {
+	left: 1410.5px;
+    top: 73px;
+    position: absolute;
+    width: 190px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Archy EDT;
+    font-weight: lighter;
+    font-size: 20px;
+    color: #707070;
+    letter-spacing: 0.1px;
+}
+.log-in {
+	left: 1596.5px;
+    top: 73px;
+    position: absolute;
+    width: 190px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Archy EDT;
+    font-weight: lighter;
+    font-size: 20px;
+    color: #707070;
+    letter-spacing: 0.1px;
+}
+.search {
+	position: absolute;
+    width: 25.5px;
+    height: 25.5px;
+    left: 1753px;
+    top: 77px;
+}
+.map {
+	position: absolute;
+    width: 1640px;
+    height: 608px;
+    left: 140px;
+    top: 212px;
+}
+.label-name {
+	left: 259px;
+    top: 869px;
+    position: absolute;
+    width: 61px;
+    line-height: 28px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: MyriadPro-Regular;
+    font-size: 23px;
+    color: #2E2E2E;
+}
+.input-name {
+	position: absolute;
+    width: 730px;
+    height: 70px;
+    left: 229px;
+    top: 912px;
+    /*border-color: #FFFFFF;*/
+    filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
+}
+.label-email {
+	left: 259px;
+    top: 999px;
+    position: absolute;
+    width: 63px;
+    line-height: 28px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: MyriadPro-Regular;
+    font-size: 23px;
+    color: #2E2E2E;
+}
+.input-email {
+	position: absolute;
+    width: 730px;
+    height: 70px;
+    left: 229px;
+    top: 1042px;
+    filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
+}
+.label-subject {
+	left: 259px;
+    top: 1129px;
+    position: absolute;
+    width: 75px;
+    line-height: 28px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: MyriadPro-Regular;
+    font-size: 23px;
+    color: #2E2E2E;
+}
+.input-subject {
+	position: absolute;
+    width: 730px;
+    height: 70px;
+    left: 229px;
+    top: 1172px;
+    filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
+}
+.label-message {
+	left: 259px;
+    top: 1264px;
+    position: absolute;
+    width: 89px;
+    line-height: 28px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: MyriadPro-Regular;
+    font-size: 23px;
+    color: #2E2E2E;
+}
+.textarea {
+	position: absolute;
+    width: 731px;
+    height: 113px;
+    left: 229px;
+    top: 1307px;
+    filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
+}
+.button {
+	position: absolute;
+    width: 151px;
+    height: 53px;
+    left: 228px;
+    top: 1460px;
+    background-color: #2E2E2E;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 21px;
+    font-family: HelveticaNeueLTStd-BdCn;
+    cursor: pointer;
+}
+.footer {
+	position: absolute;
+    width: 1920px;
+    height: 207px;
+    left: 0px;
+    top: 1735px;
+    background-color: #2E2E2E;
+}
+.logo-w {
+	position: absolute;
+    width: 122px;
+    height: 95px;
+    left: 140px;
+    top: 56px;
+}
+.contact {
+	left: 636px;
+    top: 67px;
+    position: absolute;
+    width: 134px;
+    font-family: Archy EDT;
+    font-weight: lighter;
+    font-size: thin;
+    color: rgba(242,242,242,1);
+    letter-spacing: 0.1px;
+}
+.address {
+	left: 1123px;
+    top: 67px;
+    position: absolute;
+    width: 265px;
+    font-family: Archy EDT;
+    font-weight: lighter;
+    font-size: thin;
+    color: rgba(242,242,242,1);
+    letter-spacing: 0.1px;
+}
+.fa-facebook {
+	position: absolute;
+    left: 1658px;
+    top: 81px;
+    color: #F8F8F8;
+    font-size: 35px;
+}
+.fa-instagram-square {
+	position: absolute;
+    right: 140px;
+    top: 81px;
+    color: #F8F8F8;
+    font-size: 35px;
+}
